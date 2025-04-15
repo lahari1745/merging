@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>YOGA DAY</title>
+        <style type="text/css">
+        <origin{      border:solid;
+                      height:400px;
+                       
+                }
+        </style>
+    </head>
+</html>
